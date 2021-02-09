@@ -1,0 +1,2 @@
+Command to run the evaluator:
+py interpreter.py input.txt output.txt

@@ -1,5 +1,6 @@
 # Evaluator-Project
 The project is divided in 3 parts starting with scanner, parser and then evaluator. The language evaluated was a made up language.
+Please Read instructions.txt for compiling steps
 
 The Scanner takes in a given language and scans out all the tokens like number, identifier, operator.
 # Then
